@@ -1,17 +1,26 @@
-# app_project
+**Stationery Hub – Mobile Shopping App**
 
-A new Flutter project.
+A mobile application designed to modernize the stationery shopping experience by providing a dedicated platform for consumers and small businesses. The app simplifies product discovery, enhances user experience, and integrates secure transactions.
 
-## Getting Started
+![Screenshot 2025-03-23 191310](https://github.com/user-attachments/assets/6a82acf7-625f-4f01-bc3c-87d9e542f6ad)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Key Features**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# E-commerce-App" 
+✅ Comprehensive Product Catalog – Browse a wide range of stationery items.
+
+✅ User-Friendly Interface – Easy navigation, personalized recommendations, and order history.
+
+✅ Secure Payments – Multiple payment options with encryption.
+
+✅ Efficient Categorization – Quick product discovery with optimized search.
+
+✅ Support for Small Businesses – Marketplace for vendors to showcase products.
+
+
+Tech Stack
+
+Frontend: Flutter (Android)
+
+Backend: Firebase
