@@ -1,4 +1,4 @@
-**Stationery Hub – Mobile Shopping App**
+**ArtBox – Mobile Shopping App**
 
 A mobile application designed to modernize the stationery shopping experience by providing a dedicated platform for consumers and small businesses. The app simplifies product discovery, enhances user experience, and integrates secure transactions.
 
